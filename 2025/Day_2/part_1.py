@@ -19,4 +19,4 @@ def validate_gift_shop_ids(filepath: str) -> int:
 
 
 
-print(validate_gift_shop_ids("./2025/Day_2/input.txt"))
+print(validate_gift_shop_ids("./2025/Day_2/input"))

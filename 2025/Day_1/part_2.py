@@ -17,4 +17,4 @@ def rotating_the_dial(path: str) -> int:
     return password
 
 
-print(rotating_the_dial("./2025/Day_1/input.txt"))
+print(rotating_the_dial("./2025/Day_1/input"))

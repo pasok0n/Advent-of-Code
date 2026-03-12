@@ -18,4 +18,4 @@ def scan_polymer(filepath: str) -> int:
     return result
     
 
-print(scan_polymer("./2018/Day_5/input.txt"))
+print(scan_polymer("./2018/Day_5/input"))
